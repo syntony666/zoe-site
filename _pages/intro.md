@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 課程介紹
-permalink: /AAA/
+permalink: /intro/
 image: 08.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AAA
+title: 課程介紹
 permalink: /AAA/
 image: 08.jpg
 ---

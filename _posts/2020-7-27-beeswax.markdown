@@ -1,0 +1,20 @@
+---
+layout: post
+title: 蜜蠟花課程
+date: 2020-07-26 16:00:00
+image: beeswax.JPG
+tags: 課程
+---
+
+妝品等級100%天然蜜蠟
+從溶蠟、染色、碾蠟、刻製花瓣、修飾花邊做表情到組裝～每一朵花的形成，過程都需要細心呵護⋯
+
+
+<p float="left">
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-1.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-2.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-3.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-4.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-5.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/beeswax/beeswax-6.JPG" width="350"/>
+</p>

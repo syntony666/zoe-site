@@ -1,0 +1,50 @@
+---
+layout: post
+title: Garnish 裝飾甜點蠟燭證書班(一日課程）
+date: 2020-07-26 16:59:00
+image: dessert.JPG
+tags: 私約課程
+---
+
+課程費用包含韓國Garnish Dessert Candle證書以及所有上課的材料，學員不需再負擔任何費用，上完課後即為該協會老師，之後可開課，亦可幫學生申請證照。
+
+課程指定完成4個完整的裝飾甜點蠟燭🕯️
+
+### 證書課程內容
+
+- 海綿蛋糕製作技巧
+
+- 淋醬蛋糕製作技巧
+
+- 灑粉蛋糕製作技巧
+
+- 空心巧克力球製作技巧
+
+- 捲心酥製作技巧
+
+- 巧克力薄片捲圈技巧
+
+- 奶油裝飾技法
+
+### 學員福祉
+
+- 提供原物料購買
+
+- 提供中文上課詳細講義
+
+- 提供專有的LINE線上指導，有任何問題都可以諮詢
+
+
+Garnish Dessert Candle證書班 為一日課程（10:00～18:00）建議課後不要安排其他行程
+
+<p float="left">
+  <img src="{{site.baseurl}}/images/dessert/dessert-1.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-2.JPG" width="350"/> 
+  <img src="{{site.baseurl}}/images/dessert/dessert-3.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-4.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-5.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-6.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-7.JPG" width="350"/>
+  <img src="{{site.baseurl}}/images/dessert/dessert-8.JPG" width="350"/>
+</p>
+

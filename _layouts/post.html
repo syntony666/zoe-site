@@ -49,7 +49,12 @@ layout: default
       <div class="post__content">
         {{ content }}
       </div>
-      
+      {% if page.price %}
+      <div>
+        價格：{{page.price}}
+      </div>
+      {% else %}
+      {% endif %}
     </article>
     <!-- end post -->
     </div>

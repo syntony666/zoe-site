@@ -2,7 +2,7 @@
 layout: page
 title: 關於
 permalink: /about/
-image: about.jpg
+image: about.JPG
 ---
 
 ### 師資介紹
